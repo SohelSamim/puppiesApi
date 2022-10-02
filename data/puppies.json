@@ -1,0 +1,70 @@
+{
+    "puppies": [
+        {
+            "id": 10,
+            "name": "Bobz",
+            "breed": "Boxer",
+            "birthDate": "2020-11-29"
+        },
+        {
+            "id": 1,
+            "name": "Doggo",
+            "breed": "Husky",
+            "birthDate": "2019-10-24"
+        },
+        {
+            "id": 2,
+            "name": "Doggo2",
+            "breed": "Rotweiler",
+            "birthDate": "2015-9-25"
+        },
+        {
+            "id": 3,
+            "name": "Doggo3",
+            "breed": "Pitbull",
+            "birthDate": "2017-03-12"
+        },
+        {
+            "id": 4,
+            "name": "Doggo4",
+            "breed": "Malinois",
+            "birthDate": "2015-03-25"
+        },
+        {
+            "id": 5,
+            "name": "Doggo5",
+            "breed": "Labrador",
+            "birthDate": "2019-02-13"
+        },
+        {
+            "id": 6,
+            "name": "Doggo6",
+            "breed": "Doberman",
+            "birthDate": "2018-07-20"
+        },
+        {
+            "id": 7,
+            "name": "Doggo7",
+            "breed": "Chihuahua",
+            "birthDate": "2021-05-16"
+        },
+        {
+            "id": 8,
+            "name": "Doggo7",
+            "breed": "Chow",
+            "birthDate": "2020-09-30"
+        },
+        {
+            "id": 9,
+            "name": "Doggo8",
+            "breed": "Weimaraner",
+            "birthDate": "2018-12-12"
+        },
+        {
+            "id": 1.6506021787891976,
+            "name": "newPuppie",
+            "breed": "happy",
+            "birthDate": "2020-03-03"
+        }
+    ]
+}
