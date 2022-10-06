@@ -65,6 +65,11 @@
             "name": "newPuppie",
             "breed": "happy",
             "birthDate": "2020-03-03"
+        }, {
+            "id": 11,
+            "name": "newPuppie2",
+            "breed": "happy",
+            "birthDate": "2020-04-03"
         }
     ]
 }
